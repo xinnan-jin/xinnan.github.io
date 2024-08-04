@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a bioinformatician with a keen interest in computational biology, multi-omics. My research project focuses on building a xxxx. I am 3-year PhD student at [IMB](https://imb.uq.edu.au/) within the University of Queensland and affiliated with [QIMR Berghofer](https://www.qimrberghofer.edu.au/), under the supervision of Associate Professor Quan Nguyen.
+I am a PhD student and bioinformatician at [IMB](https://imb.uq.edu.au/) within the University of Queensland and affiliated with [QIMR Berghofer](https://www.qimrberghofer.edu.au/), under the supervision of Associate Professor Quan Nguyen. My research interest includes computational biology, multi-omics. My research project focuses on identify rare cell types from single-cell omics and spatial transcriptomics though statistic and deep learning methods. 
 
