@@ -1,10 +1,10 @@
 ---
-title: "Identification of rare and common cell types through single-cell ensemble clustering"
+title: "Assessing spatial sequencing and imaging approaches to capture the molecular and pathological heterogeneity of archived cancer tissues"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Preparing to publish.'
+excerpt: 'Accepted. Co-author.'
 date: 
-venue: 
+venue: 'The Journal of Pathology'
 slidesurl: 
 paperurl: 
 citation: 
