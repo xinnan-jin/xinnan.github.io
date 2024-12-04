@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Bioinformatics, The University of Queensland, 2021
+* Bachelor of Agronomy, China Agricultural University, 09/2015 - 06/2019
+* M.S. in Bioinformatics, The University of Queensland, 02/2020 - 12/2021
+* Ph.D. (candidate) in Bioinformatisc, The University of Queensland, 01/2022 - Now
 
 Work experience
 ======
